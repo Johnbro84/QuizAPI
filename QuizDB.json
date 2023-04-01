@@ -1,0 +1,104 @@
+{
+  "questionSet": [
+    {
+      "questionType": "multiple_choice",
+      "questionText": "Which of the following is NOT a programming language?",
+      "correctAnswer": "Eclipse",
+      "choices": ["Python", "Java", "Eclipse", "C++"],
+    },
+    {
+      "questionType": "multiple_choice",
+      "questionText": "In Java, when one wants to make a loop in a program, which is NOT a syntax for it?",
+      "correctAnswer": "if",
+      "choices": ["while", "do", "for", "if"],
+    },
+    {
+      "questionType": "text_input",
+      "questionText": "What is the term used for declaring a integer? Type your answer like: 'string, double'",
+      "correctAnswer": "int",
+      "answerFieldId": "answer_to_question",
+    },
+    {
+      "questionType": "multiple_choice",
+      "questionText": "When naming variables, which of these is the correct way to name a variable with the value name of total student count?",
+      "correctAnswer": "studentTotal",
+      "choices": ["StudentTotal", "STUDENTTOTAL", "studentTotal", "studenttotal"],
+    },
+    {
+      "questionType": "fill_in_blank",
+      "questionText": "In the following if statement, if (sum == 10), the == is called a ______ operator.",
+      "correctAnswer": "relational",
+      "answerFieldId": "answer_to_question",
+    },
+    {
+      "questionType": "text_input",
+      "questionText": "When writing a method, what is the variable between the parentheses called?",
+      "correctAnswer": "parameter",
+      "answerFieldId": "answer_to_question",
+    },
+    {
+      "questionType": "true_false",
+      "questionText": "If you include a if statement, within another if statement, it's called an nested if statement. True or False?",
+      "correctAnswer": "true",
+      "options": ["true", "false"],
+    },
+    {
+      "questionType": "multiple_choice",
+      "questionText": "Note the following array: [4, 16, 7, 54, 43, 87, 32], in what position does 7 belong to?",
+      "correctAnswer": "[2]",
+      "choices": ["[4]", "[2]", "[5]", "[0]"],
+    },
+    {
+      "questionType": "multiple_choice",
+      "questionText": "Which of the following is NOT a relational operator?",
+      "correctAnswer": "++",
+      "choices": [">=", "==", "<", "++"],
+    },
+    {
+      "questionType": "narrative",
+      "questionText": "You are asked to write a program about student grades, you are required to loop through each student to see
+      how many students got an A for that course, but for this loop you have to loop through a specfic element type from the array
+      you are looping through, you think the way to do this is a for-each loop. Is this correct?",
+      "correctAnswer": "yes",
+      "answers": ["yes", "no"],
+    },
+    {
+      "questionType": "fill_in_blank",
+      "questionText": "The following code has a missing space in it,
+            int num = 4;
+              if (num _____ 7)
+              System.out.println('This number is less than 7);
+              What relational operator would best fit this statement?",
+      "correctAnswer": "<",
+      "answerFieldId": "answer_to_question",
+    },
+    {
+      "questionType": "true_false",
+      "questionText": "If you wanted to make a final variable, meaning a variable that stays constant, the whole variable name must be capitalized. True or false?",
+      "correctAnswer": "true",
+      "options": ["true", "false"],
+    },
+    {
+      "questionType": "multiple_choice",
+      "questionText": "A scanner with .nextInt() means that a user a enter what variable type?",
+      "correctAnswer": "int",
+      "choices": ["string", "double", "boolean", "int"],
+    },
+    {
+      "questionType": "multiple_choice",
+      "questionText": "Which of following methods would add an new element to an arraylist?",
+      "correctAnswer": "add",
+      "choices": ["remove", "add", "get", "clone"],
+    },
+    {
+      "questionType": "text_input",
+      "questionText": "What is the method that initalizes the properties of an object within the object class called?",
+      "correctAnswer": "constructor",
+      "answerFieldId": "answer_to_question",
+    },
+    {
+      "questionType": "text_input",
+      "questionText": "If you use the get method in an arraylist, what number should you put into the method to get the element from the 3rd position from the list?",
+      "correctAnswer": "3",
+      "answerFieldId": "answer_to_question",
+    },
