@@ -56,8 +56,8 @@
     },
     {
       "questionType": "narrative",
-      "questionText": "You are asked to write a program about student grades, you are required to loop through each student to see
-      how many students got an A for that course, but for this loop you have to loop through a specfic element type from the array
+      "questionText": "You are asked to write a program about student grades, you are required to loop through each student to see \n
+      how many students got an A for that course, but for this loop you have to loop through a specfic element type from the array \n
       you are looping through, you think the way to do this is a for-each loop. Is this correct?",
       "correctAnswer": "yes",
       "answers": ["yes", "no"],
@@ -65,9 +65,9 @@
     {
       "questionType": "fill_in_blank",
       "questionText": "The following code has a missing space in it,
-            int num = 4;
-              if (num _____ 7)
-              System.out.println('This number is less than 7);
+            int num = 4; \n
+              if (num _____ 7) \n
+              System.out.println('This number is less than 7); \n
               What relational operator would best fit this statement?",
       "correctAnswer": "<",
       "answerFieldId": "answer_to_question",
@@ -100,5 +100,49 @@
       "questionType": "text_input",
       "questionText": "If you use the get method in an arraylist, what number should you put into the method to get the element from the 3rd position from the list?",
       "correctAnswer": "3",
+      "answerFieldId": "answer_to_question",
+    },
+    {
+      "questionType": "true_false",
+      "questionText": "If the compiler detects a error at a certain line, that means it detected a runtime error. True or False",
+      "correctAnswer": "true",
+      "options": ["true", "false"],
+    },
+    {
+      "questionType": "text_input",
+      "questionText": "If the loop condition is while ( testRun < runTotal) wuth testRun = 0 and runTotal = 5, how many times will this loop?",
+      "correctAnswer": "5",
+      "answerFieldId": "answer_to_question",
+    },
+    {
+      "questionType": "multiple_choice",
+      "questionText": "Which of the following is an acceptable value for a boolean variable?",
+      "correctAnswer": "false",
+      "choices": ["yes", "3", "false", "5.5"],
+    },
+    {
+      "questionType": "multiple_choice",
+      "questionText": "Which is the correct way to call the addItem method that's from another class, use an object class call List as an example?",
+      "correctAnswer": "myList.addItem();",
+      "choices": ["addItem():", "myList.addItem();", "myList.additem();", "myListaddItem();"],
+    },
+],
+"questionSet2: [
+    {
+      "questionType": "multiple_choice",
+      "questionText": "What is the HTML element used to display a paragraph?",
+      "correctAnswer": "<p>",
+      "choices": ["<span>", "<h1>", "<p>", "<br">],
+    },
+    {
+      "questionType": "multiple_choice",
+      "questionText": "To change the family of a text's font, what style attribute should you use to do this?",
+      "correctAnswer": "font-family",
+      "options": ["color", "font-family", "font-size", "text-align"],
+    },
+    {
+      "questionType": "text_input",
+      "questionText": "What is the HTML element used a section of an HTML page? Type your answer like: <span>, <style>, <form>?",
+      "correctAnswer": "<div>"
       "answerFieldId": "answer_to_question",
     },
