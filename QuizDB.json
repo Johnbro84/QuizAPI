@@ -56,8 +56,8 @@
     },
     {
       "questionType": "narrative",
-      "questionText": "You are asked to write a program about student grades, you are required to loop through each student to see \n
-      how many students got an A for that course, but for this loop you have to loop through a specfic element type from the array \n
+      "questionText": "You are asked to write a program about student grades, you are required to loop through each student to see //
+      how many students got an A for that course, but for this loop you have to loop through a specfic element type from the array //
       you are looping through, you think the way to do this is a for-each loop. Is this correct?",
       "correctAnswer": "yes",
       "answers": ["yes", "no"],
@@ -65,9 +65,9 @@
     {
       "questionType": "fill_in_blank",
       "questionText": "The following code has a missing space in it,
-            int num = 4; \n
-              if (num _____ 7) \n
-              System.out.println('This number is less than 7); \n
+            int num = 4; //
+              if (num _____ 7) //
+              System.out.println('This number is less than 7); //
               What relational operator would best fit this statement?",
       "correctAnswer": "<",
       "answerFieldId": "answer_to_question",
@@ -127,7 +127,7 @@
       "choices": ["addItem():", "myList.addItem();", "myList.additem();", "myListaddItem();"],
     },
 ],
-"questionSet2: [
+"questionSet2": [
     {
       "questionType": "multiple_choice",
       "questionText": "What is the HTML element used to display a paragraph?",
@@ -142,7 +142,19 @@
     },
     {
       "questionType": "text_input",
-      "questionText": "What is the HTML element used a section of an HTML page? Type your answer like: <span>, <style>, <form>?",
+      "questionText": "What is the HTML element used a section of an HTML page? Type your answer like: <tagname>?",
       "correctAnswer": "<div>"
       "answerFieldId": "answer_to_question",
+    },
+    {
+      "questionType": "text_input",
+      "questionText": "If you wanted to add a style or a script onto an HTML page, the tags should in what HTML element? Type your answer like: <tagname>",
+      "correctAnswer": "<head>",
+      "answerFieldId": "answer_to_question",
+    },
+    {
+      "questionType": "true_false",
+      "questionText": "If you want to include a checkbox using <form>, the input type you should use is radio. True or False?",
+      "correctAnswer": "false",
+      "options": ["true", "false"],
     },
