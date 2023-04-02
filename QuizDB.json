@@ -132,7 +132,7 @@
       "questionType": "multiple_choice",
       "questionText": "What is the HTML element used to display a paragraph?",
       "correctAnswer": "<p>",
-      "choices": ["<span>", "<h1>", "<p>", "<br">],
+      "choices": ["<span>", "<h1>", "<p>", "<br>"],
     },
     {
       "questionType": "multiple_choice",
