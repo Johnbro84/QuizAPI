@@ -158,3 +158,33 @@
       "correctAnswer": "false",
       "options": ["true", "false"],
     },
+    {
+      "questionType": "true_false",
+      "questionText": "<script> is used to link a external Javascript file to the HTML file. True or False?",
+      "correctAnswer": "true",
+      "options": ["true", "false"],
+    },
+    {
+      "questionType": "multiple_choice",
+      "questionText": "Which of the following is NOT an input type for a form input?",
+      "correctAnswer": "video",
+      "choices": ["checkbox", "text", "button", "video"],
+    },
+    {
+      "questionType": "multiple_choice",
+      "questionText": "What does CSS stand for?",
+      "correctAnswer": "Cascading Style Sheets",
+      "choices": ["Casual Style Sheets", "Cascading Style Sheets", "Cascading Style Styles", "Cascading Language Style"],
+    },
+    {
+      "questionType": "fill_in_blank",
+      "questionText": "The _____ property changes the horizontal alignment of a text.",
+      "correctAnswer": "text-align",
+      "answerFieldId": "answer_to_question",
+    },
+    {
+      "questionType": "fill_in_blank",
+      "questionText": "What HTML attribute completes this syntax: <a ____='www.Google.com/'>?",
+      "correctAnswer": "href"
+      "answerFieldId": "answer_to_question",
+    },
