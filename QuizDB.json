@@ -119,9 +119,7 @@
       "questionText": "Which is the correct way to call the addItem method that's from another class, use an object class call List as an example?",
       "correctAnswer": "myList.addItem();",
       "choices": ["addItem():", "myList.addItem();", "myList.additem();", "myListaddItem();"]
-    }
-],
-"questionSet2": [
+    },
     {
       "questionType": "multiple_choice",
       "questionText": "What is the HTML element used to display a paragraph?",
