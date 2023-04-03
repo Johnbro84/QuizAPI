@@ -4,115 +4,115 @@
       "questionType": "multiple_choice",
       "questionText": "Which of the following is NOT a programming language?",
       "correctAnswer": "Eclipse",
-      "choices": ["Python", "Java", "Eclipse", "C++"],
+      "choices": ["Python", "Java", "Eclipse", "C++"]
     },
     {
       "questionType": "multiple_choice",
       "questionText": "In Java, when one wants to make a loop in a program, which is NOT a syntax for it?",
       "correctAnswer": "if",
-      "choices": ["while", "do", "for", "if"],
+      "choices": ["while", "do", "for", "if"]
     },
     {
       "questionType": "text_input",
       "questionText": "What is the term used for declaring a integer? Type your answer like: 'string, double'",
       "correctAnswer": "int",
-      "answerFieldId": "answer_to_question",
+      "answerFieldId": "answer_to_question"
     },
     {
       "questionType": "multiple_choice",
       "questionText": "When naming variables, which of these is the correct way to name a variable with the value name of total student count?",
       "correctAnswer": "studentTotal",
-      "choices": ["StudentTotal", "STUDENTTOTAL", "studentTotal", "studenttotal"],
+      "choices": ["StudentTotal", "STUDENTTOTAL", "studentTotal", "studenttotal"]
     },
     {
       "questionType": "fill_in_blank",
       "questionText": "In the following if statement, if (sum == 10), the == is called a ______ operator.",
       "correctAnswer": "relational",
-      "answerFieldId": "answer_to_question",
+      "answerFieldId": "answer_to_question"
     },
     {
       "questionType": "text_input",
       "questionText": "When writing a method, what is the variable between the parentheses called?",
       "correctAnswer": "parameter",
-      "answerFieldId": "answer_to_question",
+      "answerFieldId": "answer_to_question"
     },
     {
       "questionType": "true_false",
       "questionText": "If you include a if statement, within another if statement, it's called an nested if statement. True or False?",
       "correctAnswer": "true",
-      "options": ["true", "false"],
+      "options": ["true", "false"]
     },
     {
       "questionType": "multiple_choice",
       "questionText": "Note the following array: [4, 16, 7, 54, 43, 87, 32], in what position does 7 belong to?",
       "correctAnswer": "[2]",
-      "choices": ["[4]", "[2]", "[5]", "[0]"],
+      "choices": ["[4]", "[2]", "[5]", "[0]"]
     },
     {
       "questionType": "multiple_choice",
       "questionText": "Which of the following is NOT a relational operator?",
       "correctAnswer": "++",
-      "choices": [">=", "==", "<", "++"],
+      "choices": [">=", "==", "<", "++"]
     },
     {
       "questionType": "narrative",
       "questionText": "You are asked to write a program about student grades, you are required to loop through each student to see how many students got an A for that course, but for this loop you have to loop through a specfic element type from the array you are looping through, you think the way to do this is a for-each loop. Is this correct?",
       "correctAnswer": "yes",
-      "answers": ["yes", "no"],
+      "answers": ["yes", "no"]
     },
     {
       "questionType": "fill_in_blank",
       "questionText": "If num = 4 and the if statement is if (num ____ 7), the output would be 'The number is less than 7'",
       "correctAnswer": "<",
-      "answerFieldId": "answer_to_question",
+      "answerFieldId": "answer_to_question"
     },
     {
       "questionType": "true_false",
       "questionText": "If you wanted to make a final variable, meaning a variable that stays constant, the whole variable name must be capitalized. True or false?",
       "correctAnswer": "true",
-      "options": ["true", "false"],
+      "options": ["true", "false"]
     },
     {
       "questionType": "multiple_choice",
       "questionText": "A scanner with .nextInt() means that a user a enter what variable type?",
       "correctAnswer": "int",
-      "choices": ["string", "double", "boolean", "int"],
+      "choices": ["string", "double", "boolean", "int"]
     },
     {
       "questionType": "multiple_choice",
       "questionText": "Which of following methods would add an new element to an arraylist?",
       "correctAnswer": "add",
-      "choices": ["remove", "add", "get", "clone"],
+      "choices": ["remove", "add", "get", "clone"]
     },
     {
       "questionType": "text_input",
       "questionText": "What is the method that initalizes the properties of an object within the object class called?",
       "correctAnswer": "constructor",
-      "answerFieldId": "answer_to_question",
+      "answerFieldId": "answer_to_question"
     },
     {
       "questionType": "text_input",
       "questionText": "If you use the get method in an arraylist, what number should you put into the method to get the element from the 3rd position from the list?",
       "correctAnswer": "3",
-      "answerFieldId": "answer_to_question",
+      "answerFieldId": "answer_to_question"
     },
     {
       "questionType": "true_false",
       "questionText": "If the compiler detects a error at a certain line, that means it detected a runtime error. True or False",
       "correctAnswer": "true",
-      "options": ["true", "false"],
+      "options": ["true", "false"]
     },
     {
       "questionType": "text_input",
       "questionText": "If the loop condition is while ( testRun < runTotal) wuth testRun = 0 and runTotal = 5, how many times will this loop?",
       "correctAnswer": "5",
-      "answerFieldId": "answer_to_question",
+      "answerFieldId": "answer_to_question"
     },
     {
       "questionType": "multiple_choice",
       "questionText": "Which of the following is an acceptable value for a boolean variable?",
       "correctAnswer": "false",
-      "choices": ["yes", "3", "false", "5.5"],
+      "choices": ["yes", "3", "false", "5.5"]
     },
     {
       "questionType": "multiple_choice",
@@ -124,115 +124,115 @@
       "questionType": "multiple_choice",
       "questionText": "What is the HTML element used to display a paragraph?",
       "correctAnswer": "<p>",
-      "choices": ["<span>", "<h1>", "<p>", "<br>"],
+      "choices": ["<span>", "<h1>", "<p>", "<br>"]
     },
     {
       "questionType": "multiple_choice",
       "questionText": "To change the family of a text's font, what style attribute should you use to do this?",
       "correctAnswer": "font-family",
-      "options": ["color", "font-family", "font-size", "text-align"],
+      "options": ["color", "font-family", "font-size", "text-align"]
     },
     {
       "questionType": "text_input",
       "questionText": "What is the HTML element used a section of an HTML page? Type your answer like: <tagname>?",
       "correctAnswer": "<div>"
-      "answerFieldId": "answer_to_question",
+      "answerFieldId": "answer_to_question"
     },
     {
       "questionType": "text_input",
       "questionText": "If you wanted to add a internal style or script onto an HTML page, the tags should be in what HTML element? Type your answer like: <tagname>",
       "correctAnswer": "<head>",
-      "answerFieldId": "answer_to_question",
+      "answerFieldId": "answer_to_question"
     },
     {
       "questionType": "true_false",
       "questionText": "If you want to include a checkbox using <form>, the input type you should use is radio. True or False?",
       "correctAnswer": "false",
-      "options": ["true", "false"],
+      "options": ["true", "false"]
     },
     {
       "questionType": "true_false",
       "questionText": "<script> is used to link a external Javascript file to the HTML file. True or False?",
       "correctAnswer": "true",
-      "options": ["true", "false"],
+      "options": ["true", "false"]
     },
     {
       "questionType": "multiple_choice",
       "questionText": "Which of the following is NOT an input type for a form input?",
       "correctAnswer": "video",
-      "choices": ["checkbox", "text", "button", "video"],
+      "choices": ["checkbox", "text", "button", "video"]
     },
     {
       "questionType": "multiple_choice",
       "questionText": "What does CSS stand for?",
       "correctAnswer": "Cascading Style Sheets",
-      "choices": ["Casual Style Sheets", "Cascading Style Sheets", "Cascading Style Styles", "Cascading Language Style"],
+      "choices": ["Casual Style Sheets", "Cascading Style Sheets", "Cascading Style Styles", "Cascading Language Style"]
     },
     {
       "questionType": "fill_in_blank",
       "questionText": "The _____ property changes the horizontal alignment of a text.",
       "correctAnswer": "text-align",
-      "answerFieldId": "answer_to_question",
+      "answerFieldId": "answer_to_question"
     },
     {
       "questionType": "fill_in_blank",
       "questionText": "What HTML attribute completes this syntax: <a ____='www.Google.com/'>?",
       "correctAnswer": "href"
-      "answerFieldId": "answer_to_question",
+      "answerFieldId": "answer_to_question"
     },
     {
       "questionType": "narrative",
       "questionText": "You are working on a Javascript file on your preferred web application tool. You want to create a constant variable within the script. What would you use to declare this, const or var?",
       "correctAnswer": "const",
-      "answers": ["const", "var"],
+      "answers": ["const", "var"]
     },
     {
       "questionType": "multiple_choice",
       "questionText": "Which of the following is NOT a way to define functions?",
       "correctAnswer": "function syntax",
-      "choices": ["function expression", "function declaration", "arrow syntax", "function syntax"],
+      "choices": ["function expression", "function declaration", "arrow syntax", "function syntax"]
     },
     {
       "questionType": "text_input",
       "questionText": "What HTML element is used to make an ordered list? Type your answer like: <tagname>",
       "correctAnswer": "<ol>",
-      "answerFieldId": "answer_to_question",
+      "answerFieldId": "answer_to_question"
     },
     {
       "questionType": "true_false",
       "questionText": "To change the color of a button using bootstrap, you would have to change btn-btn-primary to btn-btn-success in the code. True or False?",
       "correctAnswer": "true",
-      "options": ["true", "false"],
+      "options": ["true", "false"]
     },
     {
       "questionType": "true_false",
       "questionText": "<iframe> is one of the ways you can include a video onto an HTML page. True or False?",
       "correctAnswer": "true",
-      "options": ["true", "false"],
+      "options": ["true", "false"]
     },
     {
       "questionType": "fill_in_blank",
       "questionText": "The ______ attribute shows where the image to be displayed is located",
       "correctAnswer": "src",
-      "answerFieldId": "answer_to_question",
+      "answerFieldId": "answer_to_question"
     },
     {
       "questionType": "multiple_choice",
       "questionText": "Which of the following is an class selector for CSS?",
       "correctAnswer": ".h1",
-      "choices": ["h1", ".h1", "*", "#h1"],
+      "choices": ["h1", ".h1", "*", "#h1"]
     },
     {
       "questionType": "multiple_choice",
       "questionText": "When using responsive design in CSS, what tag should you use to control the viewport?",
       "correctAnswer": "<meta>",
-      "choices": ["<link>", "<script>", "<meta>", "<style>"],
+      "choices": ["<link>", "<script>", "<meta>", "<style>"]
     },
     {
       "questionType": "text_input",
       "questionText": "What is the acronym used for allowing Javascript objects to be used in text format?",
       "correctAnswer": "JSON",
-      "answerFieldId": "answer_to_question",
+      "answerFieldId": "answer_to_question"
     },
     {
       "questionType": "text_input",
