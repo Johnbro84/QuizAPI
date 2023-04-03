@@ -56,19 +56,13 @@
     },
     {
       "questionType": "narrative",
-      "questionText": "You are asked to write a program about student grades, you are required to loop through each student to see //
-      how many students got an A for that course, but for this loop you have to loop through a specfic element type from the array //
-      you are looping through, you think the way to do this is a for-each loop. Is this correct?",
+      "questionText": "You are asked to write a program about student grades, you are required to loop through each student to see how many students got an A for that course, but for this loop you have to loop through a specfic element type from the array you are looping through, you think the way to do this is a for-each loop. Is this correct?",
       "correctAnswer": "yes",
       "answers": ["yes", "no"],
     },
     {
       "questionType": "fill_in_blank",
-      "questionText": "The following code has a missing space in it,
-            int num = 4; //
-              if (num _____ 7) //
-              System.out.println('This number is less than 7); //
-              What relational operator would best fit this statement?",
+      "questionText": "If num = 4 and the if statement is if (num ____ 7), the output would be 'The number is less than 7'",
       "correctAnswer": "<",
       "answerFieldId": "answer_to_question",
     },
@@ -125,7 +119,7 @@
       "questionText": "Which is the correct way to call the addItem method that's from another class, use an object class call List as an example?",
       "correctAnswer": "myList.addItem();",
       "choices": ["addItem():", "myList.addItem();", "myList.additem();", "myListaddItem();"],
-    },
+    }
 ],
 "questionSet2": [
     {
@@ -148,7 +142,7 @@
     },
     {
       "questionType": "text_input",
-      "questionText": "If you wanted to add a style or a script onto an HTML page, the tags should in what HTML element? Type your answer like: <tagname>",
+      "questionText": "If you wanted to add a internal style or script onto an HTML page, the tags should be in what HTML element? Type your answer like: <tagname>",
       "correctAnswer": "<head>",
       "answerFieldId": "answer_to_question",
     },
@@ -188,3 +182,66 @@
       "correctAnswer": "href"
       "answerFieldId": "answer_to_question",
     },
+    {
+      "questionType": "narrative",
+      "questionText": "You are working on a Javascript file on your preferred web application tool. You want to create a constant variable within the script. What would you use to declare this, const or var?",
+      "correctAnswer": "const",
+      "answers": ["const", "var"],
+    },
+    {
+      "questionType": "multiple_choice",
+      "questionText": "Which of the following is NOT a way to define functions?",
+      "correctAnswer": "function syntax",
+      "choices": ["function expression", "function declaration", "arrow syntax", "function syntax"],
+    },
+    {
+      "questionType": "text_input",
+      "questionText": "What HTML element is used to make an ordered list? Type your answer like: <tagname>",
+      "correctAnswer": "<ol>",
+      "answerFieldId": "answer_to_question",
+    },
+    {
+      "questionType": "true_false",
+      "questionText": "To change the color of a button using bootstrap, you would have to change btn-btn-primary to btn-btn-success in the code. True or False?",
+      "correctAnswer": "true",
+      "options": ["true", "false"],
+    },
+    {
+      "questionType": "true_false",
+      "questionText": "<iframe> is one of the ways you can include a video onto an HTML page. True or False?",
+      "correctAnswer": "true",
+      "options": ["true", "false"],
+    },
+    {
+      "questionType": "fill_in_blank",
+      "questionText": "The ______ attribute shows where the image to be displayed is located",
+      "correctAnswer": "src",
+      "answerFieldId": "answer_to_question",
+    },
+    {
+      "questionType": "multiple_choice",
+      "questionText": "Which of the following is an class selector for CSS?",
+      "correctAnswer": ".h1",
+      "choices": ["h1", ".h1", "*", "#h1"],
+    },
+    {
+      "questionType": "multiple_choice",
+      "questionText": "When using responsive design in CSS, what tag should you use to control the viewport?",
+      "correctAnswer": "<meta>",
+      "choices": ["<link>", "<script>", "<meta>", "<style>"],
+    },
+    {
+      "questionType": "text_input",
+      "questionText": "What is the acronym used for allowing Javascript objects to be used in text format?",
+      "correctAnswer": "JSON",
+      "answerFieldId": "answer_to_question",
+    },
+    {
+      "questionType": "text_input",
+      "questionText": "What HTML element is used to access an external CSS file? Type your answer like: <tagname>",
+      "correctAnswer": "<link>",
+      "answerFieldId": "answer_to_question",
+    }
+  ],
+}
+      
