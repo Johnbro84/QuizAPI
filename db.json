@@ -1,5 +1,4 @@
 {
-  [
     {
       "questionType": "multiple_choice",
       "questionText": "Which of the following is NOT a programming language?",
@@ -120,5 +119,4 @@
       "correctAnswer": "myList.addItem();",
       "choices": ["addItem():", "myList.addItem();", "myList.additem();", "myListaddItem();"]
     }
-  ]
 }
