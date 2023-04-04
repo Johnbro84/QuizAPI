@@ -40,7 +40,7 @@
       "questionType": "true_false",
       "questionText": "If you include a if statement, within another if statement, it's called an nested if statement. True or False?",
       "correctAnswer": "true",
-      "options": ["true", "false"]
+      "choices": ["true", "false"]
     },
     {
       "questionType": "multiple_choice",
@@ -58,7 +58,7 @@
       "questionType": "narrative",
       "questionText": "You are asked to write a program about student grades, you are required to loop through each student to see how many students got an A for that course, but for this loop you have to loop through a specfic element type from the array you are looping through, you think the way to do this is a for-each loop. Is this correct?",
       "correctAnswer": "yes",
-      "answers": ["yes", "no"]
+      "choices": ["yes", "no"]
     },
     {
       "questionType": "fill_in_blank",
@@ -70,7 +70,7 @@
       "questionType": "true_false",
       "questionText": "If you wanted to make a final variable, meaning a variable that stays constant, the whole variable name must be capitalized. True or false?",
       "correctAnswer": "true",
-      "options": ["true", "false"]
+      "choices": ["true", "false"]
     },
     {
       "questionType": "multiple_choice",
@@ -100,7 +100,7 @@
       "questionType": "true_false",
       "questionText": "If the compiler detects a error at a certain line, that means it detected a runtime error. True or False",
       "correctAnswer": "true",
-      "options": ["true", "false"]
+      "choices": ["true", "false"]
     },
     {
       "questionType": "text_input",
